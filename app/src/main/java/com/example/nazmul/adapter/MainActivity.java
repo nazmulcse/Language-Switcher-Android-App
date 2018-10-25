@@ -102,6 +102,18 @@ public class MainActivity extends AppCompatActivity {
         );
     }
 
+    /*public void setLocale(String localeName) {
+
+        myLocale = new Locale(localeName);
+        Resources res = getResources();
+        DisplayMetrics dm = res.getDisplayMetrics();
+        Configuration conf = res.getConfiguration();
+        conf.locale = myLocale;
+        res.updateConfiguration(conf, dm);
+        Intent refresh = new Intent(this, MainActivity.class);
+        refresh.putExtra(currentLang, localeName);
+        startActivity(refresh);
+    }*/
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
