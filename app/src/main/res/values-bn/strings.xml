@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Adapter</string>
+
+    <string-array name="country_names">
+        <item>বাংলাদেশ</item>
+        <item>চীন</item>
+        <item>ইন্ডিয়া</item>
+        <item>আফগানিস্তান</item>
+        <item>Armenia</item>
+        <item>Azerbaijan</item>
+        <item>Bhutan</item>
+        <item>Japan</item>
+        <item>Nepal</item>
+        <item>Pakistan</item>
+        <item>Sri lanka</item>
+    </string-array>
+
+    <string name="bd">
+        Bangladesh, to the east of India on the Bay of Bengal, is a South Asian country marked by lush greenery and many waterways.
+        Its Padma (Ganges), Meghna and Jamuna rivers create fertile plains, and travel by boat is common. On the southern coast,
+        the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to the royal Bengal tiger.
+    </string>
+</resources>
